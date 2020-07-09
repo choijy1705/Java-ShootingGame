@@ -1,4 +1,5 @@
-package game1;
+package shootinggame;
+
 
 import javax.swing.*;
 import java.awt.*;
